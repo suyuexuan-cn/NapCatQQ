@@ -1,4 +1,4 @@
-<img src="https://suyuexuan-cn.github.io/assets/newnewlogo.png" width = "305" height = "411" alt="NapCat" align=right />
+<img src="https://github.com/suyuexuan-cn/NapCatQQ/blob/main/logo.png" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
 # NapCat
@@ -29,7 +29,7 @@ _Modern protocol-side framework implemented based on NTQQ._
 
 ## Quick Start
 
-可前往 [Release](https://github.com/NapNeko/NapCatQQ/releases/) 页面下载最新版本
+可前往  页面下载最新版本
 
 **首次使用**请务必查看如下文档看使用教程
 
@@ -56,7 +56,7 @@ _Modern protocol-side framework implemented based on NTQQ._
 
 社区相关日后会进一步加强审核，并严格限制一定时间的入群人数，请具备一定编程基础和问题解决能力再申请入群。
 
-[困困猫猫的高中](https://qm.qq.com/q/14aUVclRUA)
+[困困猫猫的高中](https://qm.qq.com/q/14aUVclRUA)仅供聊天
 
 ## Thanks
 
