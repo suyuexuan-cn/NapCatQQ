@@ -1,7 +1,7 @@
 <img src="https://github.com/suyuexuan-cn/NapCatQQ/blob/main/logo.png" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
-# NapCat
+# NapCat（此克隆仓库仅供阅读，部分README.md修改）
 
 _Modern protocol-side framework implemented based on NTQQ._
 
