@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updateTime": "2026-11-24T13:38:14Z",
+  "updateTime": "2026-11-24T13:40:36Z",
   "plugins": [
     {
       "id": "napcat-plugin-builtin",
@@ -36,18 +36,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/suyuexuan-cn/NapCatQQ/main/plugins/napcat-plugin-ssqq.zip",
       "tags": [
         "客户端"
-      ]
-    },
-    {
-      "id": "napcat-plugin-block-send",
-      "name": "出站拦截",
-      "version": "1.0.0",
-      "description": "开启后拦截本账号所有对外发送的消息，接收不受影响",
-      "author": "local",
-      "homepage": "https://github.com/suyuexuan-cn/NapCatQQ",
-      "downloadUrl": "https://raw.githubusercontent.com/suyuexuan-cn/NapCatQQ/main/plugins/napcat-plugin-block-send.zip",
-      "tags": [
-        "工具"
       ]
     }
   ]
